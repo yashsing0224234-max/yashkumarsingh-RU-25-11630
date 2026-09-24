@@ -1,28 +1,24 @@
-# Mini Project – Basic Password Strength Checker
+# Basic Password Strength Checker
 
-## Name and Erp id
+A small C mini-project that checks basic password strength using simple validation rules.
 
-YASH KUMAR SINGH
+## checks
 
-RU-25-11630
+- minimum password length
+- at least one digit
+- at least one uppercase letter
 
-## Objective
-To check the strength of a password entered by the user using basic validation logic in C.
+## concepts used
 
-## Description
-This mini project takes a password string as input from the user and checks whether the password is strong or weak.
+- strings / character arrays
+- loops
+- conditional statements
+- functions
 
-## Validation Conditions
-- Minimum length
-- At least one digit
-- At least one uppercase letter
+## learning outcome
 
-## Concepts Used
-- Strings (char arrays)
-- Loops
-- Conditional statements
-- Functions
+This project was created to practice string traversal and basic input-validation logic in C.
 
-## Learning Outcome
-- Understanding of validation logic
-- Practice with string traversal
+## author
+
+**Yash Kumar Singh**
